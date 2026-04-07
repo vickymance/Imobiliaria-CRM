@@ -1,4 +1,4 @@
-# 🏠 CRM Imobiliário
+# projeto de Portifólio - CRM Imobiliária VMR
 
 Sistema completo de CRM imobiliário com arquitetura fullstack, composto por backend (API REST) e frontend web.
 
